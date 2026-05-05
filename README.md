@@ -15,7 +15,7 @@ It is an attempt to understand the past, while also generating new versions of i
 
 - **Camera Input**  
   Used to read:
-  head position
-  head rotation
-  body distance
-  eye-closed state
+  - head position
+  - head rotation
+  - body distance
+  - eye-closed state
